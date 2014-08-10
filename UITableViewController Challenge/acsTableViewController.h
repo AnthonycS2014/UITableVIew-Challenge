@@ -1,5 +1,5 @@
 //
-//  acsViewController.h
+//  acsTableViewController.h
 //  UITableViewController Challenge
 //
 //  Created by Anthony Shorter on 8/3/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface acsViewController : UIViewController
+@interface acsTableViewController : UITableViewController
 
 @end
